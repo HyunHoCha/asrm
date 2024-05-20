@@ -1,0 +1,4 @@
+cvxpy==1.4.1
+numpy==1.24.4
+toqito==1.0.1
+torch==2.0.1
